@@ -3,3 +3,8 @@ My name is Declan. I go to Madison and study computer science. The weather is lo
 Just kidding, I wish springtime would come as soon as possible. I love the
 sound of all the snow melting and pouring down the drain, and of all 
 the birds chirping. Spring is definitely the best season of the year.
+
+Just kidding, I wish fall would come as soon as possible. I love the sound 
+of all the leaves crunching, all their changing colors, and all the rain
+ pouring down. Fall is definitely the best season of the year. 
+
